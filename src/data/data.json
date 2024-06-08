@@ -1,0 +1,92 @@
+[
+    {
+      "name": "item a",
+      "quantity": "100",
+      "description": "High-quality item A",
+      "location": "Warehouse A",
+      "weight": "1.5 kg",
+      "id": "A001",
+      "status": "online",
+      "payload": "A"
+    },
+    {
+      "name": "item b",
+      "quantity": "200",
+      "description": "Durable item B",
+      "location": "Warehouse B",
+      "weight": "2.0 kg",
+      "id": "B002",
+      "status": "online",
+      "payload": "A"
+    },
+    {
+      "name": "item c",
+      "quantity": "150",
+      "description": "Compact item C",
+      "location": "Warehouse C",
+      "weight": "0.75 kg",
+      "id": "C003",
+      "status": "online",
+      "payload": "A"
+    },
+    {
+      "name": "item d",
+      "quantity": "300",
+      "description": "Eco-friendly item D",
+      "location": "Warehouse D",
+      "weight": "1.0",
+      "id": "D004",
+      "status": "online",
+      "payload": "A"
+    },
+    {
+      "name": "item e",
+      "quantity": "50",
+      "description": "Popular item E",
+      "location": "Warehouse A",
+      "weight": "3.0 kg",
+      "id": "E005",
+      "status": "online",
+      "payload": "A"
+    },
+    {
+      "name": "item f",
+      "quantity": "400",
+      "description": "Budget-friendly item F",
+      "location": "Warehouse B",
+      "weight": "2.5 kg",
+      "id": "F006",
+      "status": "online",
+      "payload": "A"
+    },
+    {
+      "name": "item g",
+      "quantity": "250",
+      "description": "Versatile item G",
+      "location": "Warehouse C",
+      "weight": "1.2 kg",
+      "id": "G007",
+      "status": "online",
+      "payload": "A"
+    },
+    {
+      "name": "item h",
+      "quantity": "100",
+      "description": "Durable item H",
+      "location": "Warehouse D",
+      "weight": "2.8 kg",
+      "id": "H008",
+      "status": "online",
+      "payload": "A"
+    },
+    {
+      "name": "item i",
+      "quantity": "175",
+      "description": "Lightweight item I",
+      "location": "Warehouse ",
+      "weight": "0.5 kg",
+      "id": "I009",
+      "status": "online",
+      "payload": "A"
+    }
+]
